@@ -32,4 +32,4 @@ jobs:
 
     - name: Executar testes
       run: |
-        pytest  tests
+        pytest test_baralho.py
