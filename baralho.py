@@ -19,3 +19,8 @@ class Baralho:
     def virar(self):
         """ Retira a carta do topo e remove do baralho... """
         return self.cartas.pop()
+    
+    def esvaziar_baralho(self):
+        for idx, item in enumerate(self.cartas):
+            self.cartas.pop(idx)
+            print(f'Carta {item} removida com sucesso')
