@@ -17,5 +17,5 @@ class Baralho:
         return cartas
     
     def virar(self):
-        """ Retira a carta do topo e remove do baralho """
+        """ Retira a carta do topo e remove do baralho... """
         return self.cartas.pop()
