@@ -1,1 +1,1 @@
-Atividade da disciplina Engenharia de Softwarte 2.
+Atividade da disciplina Engenharia de Software 2.
